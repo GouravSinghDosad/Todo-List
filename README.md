@@ -3,20 +3,14 @@ A simple command-line based Todo List application built with Python. This app al
 
 ## 🚀 Features
 Add tasks: Quickly add new tasks to your list.
-
 View tasks: Display all tasks currently in the list.
-
 Remove tasks: Delete specific tasks by name.
-
 Create new list: Reset and start fresh with a new Todo list.
-
 Exit option: Close the app gracefully.
 
 ## ⚙️ How It Works
 Run the script in your terminal.
-
 Choose an option from the menu (Add, View, Remove, New List, Exit).
-
 Tasks are stored in memory during runtime.
 
 ## 📌 Example Flow
